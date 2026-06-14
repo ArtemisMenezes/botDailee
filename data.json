@@ -1,0 +1,29 @@
+{
+"alunos": [
+    {
+      "nome": "Pedro Rafael",
+      "anotacoes": [
+        {"etiquetas": ["sobrecarga sensorial", "falta de atenção"], "descricao": "Hoje o Pedro teve muita dificuldade com o barulho do sinal. Precisou ir para a sala de recursos se acalmar."},
+        {"etiquetas": ["evolução nas atividades"], "descricao": "Conseguiu ler três palavras inteiras sozinho hoje e se sentiu mais motivado para estudar"},
+        {"etiquetas": ["sobrecarga sensorial", "agressividade"], "descricao": "Houve uma mudança na rotina na sala e ele ficou frustrado, acabou empurrando o coleguinha."},
+        {"etiquetas": ["evolução nas atividades"], "descricao": "Participou da roda de música super bem hoje, cantou com os colegas."}
+      ]
+    },
+    {
+      "nome": "Maria Estela",
+      "anotacoes": [
+        {"etiquetas": ["falta de socialização"], "descricao": "Ficou isolada no recreio hoje, não quis brincar com as outras crianças."},
+        {"etiquetas": ["dificuldades na alimentação", "falta de atenção"], "descricao": "Não quis comer o lanche e demonstrou muita dispersão durante a atividade de pintura."},
+        {"etiquetas": ["evolução nas atividades"], "descricao": "Conseguiu terminar o quebra-cabeça de 10 peças sozinha"}
+      ]
+    },
+    {
+      "nome": "João Guilherme",
+      "anotacoes": [
+        {"etiquetas": ["agressividade", "falta de socialização"], "descricao": "Tomou o brinquedo do colega à força durante o recreio."},
+        {"etiquetas": ["evolução nas atividades"], "descricao": "Ficou 15 minutos concentrado na atividade de massinha, excelente evolução na coordenação motora."},
+        {"etiquetas": ["falta de atenção", "agressividade"], "descricao": "Estava muito agitado hoje, não conseguiu se concentrar na 'hora da historinha' e bateu no coleguinha."}
+      ]
+    }
+  ]
+}
